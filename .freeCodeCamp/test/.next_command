@@ -1,2 +1,4 @@
 git add universe.sql
 git add -u
+git pull --rebase origin main
+git add -A
